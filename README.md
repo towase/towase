@@ -1,6 +1,6 @@
 ### Hi there 👋
 
 <p align="left"> 
-  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=towase&layout=compact" />
-  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=towase&show_icons=true" />
+  <img alt="Top Langs" height="150px" src="./profile/top-langs.svg" />
+  <img alt="github stats" height="150px" src="./profile/stats.svg" />
 </p>
